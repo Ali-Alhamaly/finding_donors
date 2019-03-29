@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+Figures
+example_submission.csv
+test_census.csv
